@@ -20,7 +20,7 @@ volatile int kmod_start(void)
 	libkern_init0();
 	
 	OSString* one = OSString::withCString("Anal sex");
-	OSString* two = OSString::withCString("Cunnilungus");
+	OSString* two = OSString::withCString("Cunnilingus");
  
 	OSArray* sexthings = OSArray::withCapacity(2);
 
